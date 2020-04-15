@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <view>
+      <view class="number">
+        <view wx:for="{{result_red}}">{{item}}</view>
+      </view>
+      <view class="buleBall">
+        <view wx:for="{{result_blue}}">{{item}}</view>
+      </view>
+  </view>
+  <button class="datePicker" bindtap="sjyh">随机摇号</button>
+  <!--WXML示例代码-->
+  <mp-tabbar style="position:fixed;top:0;width:100%;left:0;right:0;" list="{{list}}" ></mp-tabbar>
+</view>

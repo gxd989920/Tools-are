@@ -1,0 +1,35 @@
+/**index.wxss**/
+.datePicker {
+  width: 80%;
+  height: 40px;
+  line-height: 40px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 8%;
+}
+.number view {
+  display: block;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  border: 2px solid red;
+  color: red;
+  font-weight: bold;
+  margin-bottom:20px;
+}
+.buleBall view {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  border:2px solid blue;
+  color: blue;
+  font-weight: bold;
+}
