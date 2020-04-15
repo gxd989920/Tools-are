@@ -21,9 +21,9 @@
 		"uglifyFileName": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.5.2",
+	"libVersion": "2.10.4",
 	"appid": "wx4cb2a12cb858265b",
-	"projectname": "%E7%94%98%E5%AE%B6%E6%9D%82%E8%B4%A7%E9%93%BA",
+	"projectname": "%E5%B7%A5%E5%85%B7%E4%BA%BA%E7%9A%84%E6%9D%82%E8%B4%A7%E9%97%B4",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
